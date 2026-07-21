@@ -1,0 +1,23 @@
+[{
+        "id": "001",
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "edad": 30,
+        "email": "juan.perez@example.com",
+        "especialidad": {
+            "nombre": "desarrollo web",
+            "nivel": "Senior"
+        }
+    },
+    {
+        "id": "002",
+        "nombre": "María",
+        "apellido": "García",
+        "edad": 28,
+        "email": "maria.garcia@example.com",
+        "especialidad": {
+            "nombre": "Diseño Gráfico",
+            "nivel": "Junior"
+        }
+    }
+]
